@@ -1,0 +1,12 @@
+{
+  "name": "CurrencyTutorial",
+  "displayName": "CurrencyTutorial",
+  "expo": {
+    "name": "CurrencyTutorial",
+    "slug": "CurrencyTutorial",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
