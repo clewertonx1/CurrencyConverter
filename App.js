@@ -1,12 +1,16 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import Input from './components/input/Input'
+
 
 export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Currency</Text>
-      <StatusBar style="auto" />
+      <Input></Input>
+      <Input></Input>
+      
     </View>
   );
 }
